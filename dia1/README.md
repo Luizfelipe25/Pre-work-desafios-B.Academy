@@ -1,34 +1,16 @@
 # Desafio do dia 01
 
-## Setup
-
-Primeiro, instale as dependências do projeto e coloque o servidor para rodar em modo de desenvolvimento.
-
-Lembre-se de, após resolver cada exercício abaixo, fazer um commit para "registrar" o ajuste.
-
 ## Exercício 01
 
-Resolver o erro que aparece no console:
-
-```
-GET http://localhost:3000/main.js net::ERR_ABORTED 404 (Not Found)
-```
+#1 - https://github.com/Luizfelipe25/Pre-work-desafios-B.Academy/commit/330e775b2168a92da574aabe60693032b121b203 <br>
 
 ## Exercício 02
 
-Ao resolver o primeiro erro, resolva o segundo erro que deverá aparecer no console:
-
-```
-Uncaught SyntaxError: Cannot use import statement outside a module
-```
+#2 - https://github.com/Luizfelipe25/Pre-work-desafios-B.Academy/commit/c340cbde0ae607232b9e43420946a87d6c5186fb <br>
 
 ## Exercício 03
 
-Olhe novamente para o console, e resolva o próximo erro:
-
-```
-main.js:3 Uncaught TypeError: Cannot set property 'innerHTML' of null
-```
+#3 - https://github.com/Luizfelipe25/Pre-work-desafios-B.Academy/commit/40497d6dc70f72b54554a89e94f818c08274fe36
 
 ## Exercício 04
 
